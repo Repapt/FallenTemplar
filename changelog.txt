@@ -1,0 +1,13 @@
+
+ver. 0.1.1
+- Added pathfinding logic for enemies
+- Added proper wall tiles for hallways
+- Added changelog
+
+- Time-based events now scale properly across all framerates
+- Boxes are no longer destroyed on contact with walls
+
+-------------------------
+
+ver. 0.1
+- Initial release
