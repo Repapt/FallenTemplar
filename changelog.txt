@@ -1,3 +1,17 @@
+ver. 0.1.2
+- Added lighting
+- Added new units & minibosses
+- Added explosive barrels
+- Added pause function
+- Added additional UI elements to HUD
+
+- Reworked abilities to be more intuitive
+- Added more layers to enemy AI
+- Guns now use ammo
+- New rooms & some updated textures
+- Reworked enemy spawning to ramp up more naturally
+
+-------------------------
 
 ver. 0.1.1
 - Added pathfinding logic for enemies
