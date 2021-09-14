@@ -1,3 +1,12 @@
+ver 0.1.5
+- Added upgrades system
+- Added a boss on eighth floor
+
+- Fixed bugs with sound system
+- Fixed bugs with tutorial
+
+-------------------------
+
 ver 0.1.4
 - Added a boss on floor four
 - Added a timer and restart button
