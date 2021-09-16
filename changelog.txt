@@ -1,6 +1,7 @@
 ver 0.1.5
 - Added upgrades system
 - Added a boss on eighth floor
+- Added gameplay tips
 
 - Fixed bugs with sound system
 - Fixed bugs with tutorial
