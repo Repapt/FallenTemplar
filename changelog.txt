@@ -1,3 +1,11 @@
+ver 0.1.6
+- Reworked upgrades system to skill tree
+- Changed laser colours for readability
+
+- Fixed bugs with gameplay tips
+
+-------------------------
+
 ver 0.1.5
 - Added upgrades system
 - Added a boss on eighth floor
