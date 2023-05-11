@@ -1,3 +1,11 @@
+ver 0.1.8
+- Added consumables
+- Added items system
+
+- Slightly reworked upgrades to make room for item system
+- Stairs no longer automatically send you to next level
+- Fixed issues with certain enemies
+
 ver 0.1.7
 - Added alarm level
 - Added new enemies
