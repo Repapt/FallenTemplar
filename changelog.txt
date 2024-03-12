@@ -1,3 +1,13 @@
+ver 0.2
+- Reworked player sprite
+- Added new enemy spawning systems for rooms
+- Added two new enemies
+
+- Added idle animation for player
+- Fixed bugs with certain items and upgrades
+
+-------------------------
+
 ver 0.1.8
 - Added consumables
 - Added items system
